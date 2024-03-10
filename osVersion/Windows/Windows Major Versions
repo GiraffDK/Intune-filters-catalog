@@ -1,5 +1,6 @@
 (device.osVersion -startsWith "10.0.22")
 or (device.osVersion -startsWith "10.0.19045")
+or (device.osVersion -startsWith "10.0.19044")
 or (device.osVersion -startsWith "10.0.19043")
 or (device.osVersion -startsWith "10.0.19042")
 or (device.osVersion -startsWith "10.0.19041")
